@@ -35,15 +35,22 @@
 4. Чтобы просто поиграть без установки движка, скачайте готовую сборку в разделе [Releases](https://github.com).
 ## Ассеты и благодарности (Credits)
 
+## Ассеты и благодарности (Credits)
+
 <p align="left">
   <a href="https://polyhaven.com">
     <img src="Poly%20Haven%20Logo%20Colored%20Icon.png" alt="Poly Haven" width="64">
   </a>
   &nbsp;&nbsp;
   <a href="https://unity.com">
-    <img src="unity-logo.svg" alt="Unity" width="64">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="unity-white-logo.png">
+      <source media="(prefers-color-scheme: light)" srcset="unity-logo.svg">
+      <img alt="Unity" src="unity-logo.svg" width="64">
+    </picture>
   </a>
 </p>
+
 
 В проекте использованы бесплатные 3D-модели, HDRI-карты и PBR-текстуры из библиотеки **[Poly Haven](https://polyhaven.com)** (распространяются по лицензии CC0).
 
