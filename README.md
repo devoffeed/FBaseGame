@@ -33,12 +33,15 @@
 2. Откройте **Unity Hub**, нажмите **Add** и выберите корневую папку скачанного проекта.
 3. Запустите проект (рекомендуется версия Unity **6.3** или новее) и откройте основную сцену в папке `Assets/Scenes`.
 4. Чтобы просто поиграть без установки движка, скачайте готовую сборку в разделе [Releases](https://github.com).
-
 ## Ассеты и благодарности (Credits)
 
 <p align="left">
   <a href="https://polyhaven.com">
     <img src="Poly%20Haven%20Logo%20Colored%20Icon.png" alt="Poly Haven" width="64">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://unity.com">
+    <img src="unity-logo.svg" alt="Unity" width="64">
   </a>
 </p>
 
